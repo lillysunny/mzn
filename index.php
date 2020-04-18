@@ -28,14 +28,14 @@
           </div>
             <div id="div_convert" class="center col s12 hide">
               <input id="mega_url_converted" type="text" readonly value="Lorem Ipsum2">
-              <label for="mega_url_converted">Link Convertido</label>
+              <label for="mega_url_converted">Link Convert</label>
               <br>
               <a style="margin-top:10px;" onclick="copyText()" class="waves-effect waves-light btn red">Copiar</a>
             </div>
         </div>
     </div>
 
-    <h6 class="center white-text">Made With &hearts; by LordzSpectron</h6>
+    <h6 class="center white-text">Made With &hearts; by GMAX</h6>
 
      <!-- Jquery -->
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
