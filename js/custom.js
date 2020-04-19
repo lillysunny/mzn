@@ -48,6 +48,7 @@ function isUrlMega(url){
     var protocol = 'https://';
     var protocol2 = 'http://';
     var host = 'mega.nz';
+    var host2 = 'mega.co.nz';
     var file = '#';
     var id = '[a-zA-Z0-9]{0,8}';
     var key = '[a-zA-Z0-9_-]+';
